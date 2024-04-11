@@ -1,0 +1,26 @@
+package com.section2.spring;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.section2.spring.game.GameRunner;
+import com.section2.spring.game.GamingConsole;
+import com.section2.spring.game.MarioGame;
+import com.section2.spring.game.Pacman;
+import com.section2.spring.game.SuperContra;
+
+
+@Configuration
+public class GamingConfiguration {
+
+	
+	@Bean
+	public GamingConsole game()
+	{
+		var game = new Pacman();
+		return game;
+	}
+//	var game = new SuperContra();  
+//	var gameRunner = new GameRunner(game3); 
+//	gameRunner.run();
+}

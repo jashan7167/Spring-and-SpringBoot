@@ -1,0 +1,21 @@
+package com.section2.spring;
+
+import com.section2.spring.game.GameRunner;
+import com.section2.spring.game.GamingConsole;
+import com.section2.spring.game.MarioGame;
+import com.section2.spring.game.SuperContra;
+import com.section2.spring.game.Pacman;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class App03GamingSpringBeans {
+
+	public static void main(String[] args) {
+		try(var context = new AnnotationConfigApplicationContext(GamingConfiguration.class);)
+		{			
+			context.getBean(GamingConsole.class).up(); 
+		}
+		
+
+	}
+
+}

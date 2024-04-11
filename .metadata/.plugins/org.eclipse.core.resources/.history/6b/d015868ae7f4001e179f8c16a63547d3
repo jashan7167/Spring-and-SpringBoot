@@ -1,0 +1,16 @@
+package com.section2.spring;
+
+import com.section2.spring.game.GameRunner;
+import com.section2.spring.game.MarioGame;
+import com.section2.spring.game.SuperContra;
+import com.section2.spring.game.Pacman;
+
+
+public class App03GamingSpringBeans {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}

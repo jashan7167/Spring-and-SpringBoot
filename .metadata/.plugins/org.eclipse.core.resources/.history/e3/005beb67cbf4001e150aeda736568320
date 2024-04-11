@@ -1,0 +1,21 @@
+package com.section2.spring;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class HelloWorldConfiguration {
+	//in here we can define the spring beans
+	@Bean
+	public String name()
+	{
+		return "Jashan";
+	}
+	@Bean
+	public int age()
+	{
+		return 21;
+	}
+
+}
+

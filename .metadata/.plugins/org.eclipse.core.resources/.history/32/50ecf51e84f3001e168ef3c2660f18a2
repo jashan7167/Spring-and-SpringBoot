@@ -1,0 +1,15 @@
+package com.section2.spring;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+public class App02HelloWorldSpring {
+	public static void main(String[]args)
+	{
+		//we already have a jvm running inside that we will create a spring context in it
+		//launch a spring contenxt
+	   
+		new AnnotationConfigApplicationContext(HelloWorldConfiguration.class);
+		//Configure the things that we want Spring to manage - @Configuration
+		
+	}
+
+	
+}

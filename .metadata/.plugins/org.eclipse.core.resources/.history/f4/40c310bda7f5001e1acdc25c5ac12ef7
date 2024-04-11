@@ -1,0 +1,11 @@
+public class BusinessCalculationService {
+	mySQLDataService sql;
+	 MongoDbDataService mongo;
+	
+	BusinessCalculationService(mySQLDataService sql , MongoDbDataService mongodb)
+	{
+		this.sql = sql;
+		this.mongo = mongo;
+		
+	}
+}

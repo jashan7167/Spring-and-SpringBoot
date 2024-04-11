@@ -1,0 +1,46 @@
+package com.section2.spring;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+//let spring manage the object of the custom class
+//record is a new feature that was released in JDK16
+
+
+record Person(String name,int age)
+{
+	
+};
+record Address(String firsLine , String city)
+{
+	
+};
+
+@Configuration
+public class HelloWorldConfiguration {
+	//in here we can define the spring beans
+	@Bean
+	public String name()
+	{
+		return "Jashan";
+	}
+	@Bean
+	public int age()
+	{
+		return 21;
+	}
+	
+	@Bean
+	public Person person()
+	{
+		var person = new Person("Jashan",20);
+		return person;
+	}
+	@Bean
+	public Address address()
+	{
+		return new Address("Baker Street","London");
+	}
+
+}
+

@@ -1,0 +1,24 @@
+package com.section2.spring;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+public class App02HelloWorldSpring {
+	public static void main(String[]args)
+	{
+		//we already have a jvm running inside that we will create a spring context in it
+		//launch a spring contenxt
+	   
+		var context = new AnnotationConfigApplicationContext(HelloWorldConfiguration.class);
+		//Configure the things that we want Spring to manage - @Configuration
+		//name = @Bean
+		
+		
+		//3.Retrieving Beans managed by Spring
+		System.out.println(context.getBean("name"));
+		
+		
+		System.out.prinln(context.getBean(age));
+		
+		
+	}
+
+	
+}
