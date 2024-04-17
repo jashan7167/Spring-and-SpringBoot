@@ -1442,3 +1442,496 @@ org.eclipse.core.runtime.CoreException: Launch configuration App01GamingBasicJav
 2024-04-11 15:35:29,328 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-04-11 15:35:29,345 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2024-04-11 15:35:29,351 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3exercise/src/test/resources
+2024-04-14 22:52:19,901 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-14 23:23:24,493 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml.
+2024-04-14 23:23:25,740 [Worker-34: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml.
+2024-04-14 23:25:05,850 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:25:05,878 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:25:05,884 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:25:32,344 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:25:32,350 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:25:32,354 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:28:27,841 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:28:27,851 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:28:27,858 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:31:29,388 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:31:29,392 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:31:29,396 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:32:16,475 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:32:16,479 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:32:16,483 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:32:53,633 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:32:53,636 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:32:53,640 [Worker-34: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:33:46,139 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:33:46,144 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:33:46,147 [Worker-32: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-14 23:38:19,924 [Worker-31: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-14 23:38:19,928 [Worker-31: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-14 23:38:19,936 [Worker-31: Launching LazyInitializationLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:01:10,064 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:01:10,072 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:01:10,076 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:12:04,929 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:12:04,931 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:12:04,933 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:34:42,312 [Worker-47: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:34:42,315 [Worker-47: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:34:42,327 [Worker-47: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:35:01,765 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:35:01,769 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:35:01,774 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:40:16,501 [Worker-57: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:40:16,504 [Worker-57: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:40:16,507 [Worker-57: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:40:27,888 [Worker-61: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:40:27,892 [Worker-61: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:40:27,896 [Worker-61: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-15 00:40:48,032 [Worker-60: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-15 00:40:48,036 [Worker-60: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-15 00:40:48,040 [Worker-60: Launching BeacnScopesLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:24:46,699 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-16 00:30:26,015 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:30:26,039 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:30:26,048 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section1section2/src/test/resources
+2024-04-16 00:30:27,589 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:30:27,608 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:30:27,614 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:30:28,622 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:30:28,650 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:30:28,657 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3exercise/src/test/resources
+2024-04-16 00:30:54,814 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:30:54,826 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:30:54,830 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:32:52,101 [Worker-28: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:32:52,106 [Worker-28: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:32:52,109 [Worker-28: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:33:13,700 [Worker-26: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:33:13,704 [Worker-26: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:33:13,708 [Worker-26: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:35:51,337 [Worker-27: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:35:51,373 [Worker-27: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:35:51,389 [Worker-27: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:38:51,930 [Worker-25: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:38:51,933 [Worker-25: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:38:51,938 [Worker-25: Launching PrePostAnnotationsContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:50:52,389 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-04-16 00:51:24,408 [Worker-31: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2392)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-04-16 00:51:25,693 [Worker-29: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2392)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-04-16 00:51:26,788 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 00:51:26,791 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 00:51:26,795 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 00:51:31,694 [Worker-22: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\n\t</dependencies>... @37:17)  @ line 37, column 17
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\n\t</dependencies>... @37:17)  @ line 37, column 17
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:935)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 00:52:19,632 [Worker-29: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\n\t</dependencies>... @37:17)  @ line 37, column 17
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\n\t</dependencies>... @37:17)  @ line 37, column 17
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:935)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 00:52:44,962 [Worker-32: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/spring-section1section2/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:913)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1097)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1054)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1096)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:289)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:241)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 00:52:45,924 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml.
+2024-04-16 00:52:46,037 [Worker-30: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:371)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:361)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:320)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2: /home/jashan/Personal/web-dev/Backend/spring-section1section2 (Is a directory) @ 
+ for project  at /home/jashan/Personal/web-dev/Backend/spring-section1section2
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:369)
+	... 35 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM /home/jashan/Personal/web-dev/Backend/spring-section1section2: /home/jashan/Personal/web-dev/Backend/spring-section1section2 (Is a directory) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:600)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:257)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:243)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 37 common frames omitted
+2024-04-16 00:53:34,832 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section3/pom.xml.
+2024-04-16 01:07:46,081 [Worker-30: Loading pom.xml] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api//jakarta.inject-api-.pom
+2024-04-16 01:07:46,082 [Worker-30: Loading pom.xml] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.inject:jakarta.inject-api:jar: is missing, no dependency information available
+2024-04-16 01:07:49,773 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section3/pom.xml.
+2024-04-16 01:07:49,862 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom
+2024-04-16 01:07:49,876 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom
+2024-04-16 01:07:49,890 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+2024-04-16 01:07:49,897 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+2024-04-16 01:07:49,962 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+2024-04-16 01:07:49,964 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+2024-04-16 01:07:50,054 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:07:50,055 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:07:50,060 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:07:50,354 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:07:50,368 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:07:50,371 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:07:51,015 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1-sources.jar
+2024-04-16 01:07:51,019 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1-sources.jar
+2024-04-16 01:07:51,020 [Worker-30: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.inject:jakarta.inject-api:2.0.1
+2024-04-16 01:08:45,207 [Worker-34: Launching CdiContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:08:45,211 [Worker-34: Launching CdiContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:08:45,214 [Worker-34: Launching CdiContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:09:40,934 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml.
+2024-04-16 01:09:41,217 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:09:41,232 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:09:41,238 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section1section2/src/test/resources
+2024-04-16 01:09:42,358 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:09:42,359 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:09:42,363 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section1section2/src/test/resources
+2024-04-16 01:11:08,477 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:08,478 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:08,480 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:08,482 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:08,483 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:08,485 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+org.eclipse.core.runtime.CoreException: Launch configuration LaunchDataService (1) references closed project spring-section3exercise
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-16 01:11:10,121 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:11:10,125 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:11:10,129 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:11:26,721 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:11:26,729 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:11:26,733 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:11:42,881 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:11:42,884 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:11:42,886 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:17:47,969 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:17:47,971 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:17:47,974 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:20:09,691 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:20:09,692 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:20:09,696 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:21:33,834 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:21:33,843 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:21:33,846 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:23:57,710 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:23:57,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:23:57,720 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:24:24,378 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:24:24,379 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:24:24,381 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:25:36,393 [Worker-42: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:25:36,397 [Worker-42: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:25:36,400 [Worker-42: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:26:12,856 [Worker-43: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:26:12,865 [Worker-43: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:26:12,869 [Worker-43: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:26:35,031 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:26:35,032 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:26:35,034 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:26:59,186 [Worker-33: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:26:59,186 [Worker-33: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:26:59,188 [Worker-33: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:27:08,793 [Worker-39: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:27:08,793 [Worker-39: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:27:08,796 [Worker-39: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:28:13,118 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:28:13,120 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:28:13,125 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:30:56,950 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:30:56,952 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:30:56,961 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:33:02,240 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:33:02,241 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:33:02,248 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:33:48,707 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:33:48,708 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:33:48,710 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:34:38,601 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:34:38,602 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:34:38,611 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:35:13,777 [Worker-38: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:35:13,780 [Worker-38: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:35:13,782 [Worker-38: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:35:41,784 [Worker-41: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:35:41,796 [Worker-41: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:35:41,802 [Worker-41: Launching XmlContextLauncherApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3/src/test/resources
+2024-04-16 01:45:02,657 [Worker-47: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section1section2/pom.xml.
+2024-04-16 01:45:24,261 [Worker-33: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.section2:spring:0.0.1-SNAPSHOT @ /home/jashan/Personal/web-dev/Backend/spring-section3exercise/pom.xml.
+2024-04-16 01:47:29,397 [Worker-45: Launching LaunchDataService (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-16 01:47:29,420 [Worker-45: Launching LaunchDataService (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-16 01:47:29,427 [Worker-45: Launching LaunchDataService (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/jashan/Personal/web-dev/Backend/spring-section3exercise/src/test/resources
